@@ -1,0 +1,212 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RW Divi Unite Gallery\n"
+"POT-Creation-Date: 2017-04-05 16:32+0530\n"
+"PO-Revision-Date: 2016-06-09 19:00+0530\n"
+"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language-Team: Ahmed <info@reloadweb.co.uk>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: custom-modules/divi-unite-gallery.php:9
+msgid "Unite Gallery"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:51
+#: custom-modules/divi-unite-gallery.php:67
+msgid "Gallery Images"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:75
+msgid "Theme"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:79
+#: custom-modules/divi-unite-gallery.php:162
+msgid "Default"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:80
+msgid "Tiles"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:81
+msgid "Tiles Grid"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:82
+msgid "Carousel"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:83
+msgid "Compact"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:84
+msgid "Grid"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:85
+msgid "Slider"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:87
+msgid "Toggle between the various themes of unite gallery."
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:97
+msgid "Tiles Type"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:101
+msgid "Columns"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:102
+msgid "Justified"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:103
+msgid "Nested"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:106
+msgid ""
+"Toggle between the various tiles types. Tiles types will work with only "
+"tiles theme."
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:109
+msgid "Navigation Type"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:113
+msgid "Bullets"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:114
+msgid "Arrows"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:117
+msgid ""
+"Toggle between navigation types.  Navigation type will work with only tiles "
+"grid theme."
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:121
+msgid "Show Text Panel"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:125
+msgid "Yes"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:126
+msgid "No"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:128
+msgid ""
+"Whether or not to show the text panel. This Option will work only with "
+"default theme."
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:132
+#: custom-modules/divi-unite-gallery.php:145
+msgid "Panel Position"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:136
+#: custom-modules/divi-unite-gallery.php:149
+msgid "Bottom"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:137
+#: custom-modules/divi-unite-gallery.php:150
+msgid "Top"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:138
+#: custom-modules/divi-unite-gallery.php:151
+msgid "Left"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:139
+#: custom-modules/divi-unite-gallery.php:152
+msgid "Right"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:142
+msgid ""
+"Toggle between panel positions.  Navigation type will work with only compact "
+"grid theme."
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:155
+msgid ""
+"Toggle between panel positions.  Navigation type will work with only grid "
+"theme."
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:158
+msgid "Skins"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:163
+msgid "Alexis"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:165
+msgid "Toggle between the various skins of unite gallery."
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:170
+msgid "Disable on"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:173
+msgid "Phone"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:174
+msgid "Tablet"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:175
+msgid "Desktop"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:179
+msgid "This will disable the module on selected devices"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:182
+msgid "Admin Label"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:184
+msgid ""
+"This will change the label of the module in the builder for easy "
+"identification."
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:187
+msgid "CSS ID"
+msgstr ""
+
+#: custom-modules/divi-unite-gallery.php:194
+msgid "CSS Class"
+msgstr ""
